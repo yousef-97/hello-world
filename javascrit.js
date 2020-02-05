@@ -8,3 +8,5 @@ if (r == true) {
 }
 alert("NOT YET :D");
 prompt("your name plz");
+prompt("how are you");
+prompt("how old are you");
