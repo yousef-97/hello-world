@@ -16,7 +16,7 @@ function kindOfCar(){
   var kind;
   var img= '';
   while(kind!=="binz"&&kind!=="bmw"){
-     kind= prompt("lovley car binz or bmw?");}
+     kind= prompt("which car do you like binz or bmw?");}
   var numberofimgs;
   numberofimgs=prompt("how many car do you want?");
   for(var x=0;x<numberofimgs;x++){
