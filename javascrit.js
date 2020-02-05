@@ -18,7 +18,7 @@ function kindOfCar(){
   while(kind!=="binz"&&kind!=="bmw"){
      kind= prompt("lovley car binz or bmw?");}
   var numberofimgs;
-  numberofimgs=prompt("how many pic you need?");
+  numberofimgs=prompt("how many car do you want?");
   for(var x=0;x<numberofimgs;x++){
     if(kind==="binz"){
       img=img+'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB7qVCCdLvfkSuGeGBOgzVlPcAv3YGb9oVJLpCsTjbgBKK7d3Z">';
