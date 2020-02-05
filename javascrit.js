@@ -1,4 +1,4 @@
-document.write("<h5> hi </h5>" );
+// document.write("<h5> hi </h5>" );
 var txt;
 var r = confirm("ARE YOU READY!");
 if (r == true) {
@@ -7,6 +7,6 @@ if (r == true) {
   txt = "You pressed Cancel!";
 }
 alert("NOT YET :D");
-prompt("your name plz");
+document.write(prompt("your name plz"));
 prompt("how are you");
-prompt("how old are you");
+document.write( prompt("how old are you"));
