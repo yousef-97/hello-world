@@ -19,7 +19,7 @@
     //  else{greeting = 'Welcome!';} 
     //  return greeting; 
     //  }
-document.write('<h3>' + theTime() + '</h3>')
+// document.write('<h3>' + theTime() + '</h3>')
 var a = confirm("Are you cars lover?",'yes or no');
 if ( a==false ){alert("leave the page Plz ");} 
   else{alert('WLC BRAH');}
